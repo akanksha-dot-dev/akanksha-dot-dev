@@ -20,6 +20,15 @@
 <img src="https://komarev.com/ghpvc/?username=imaakanksha&style=for-the-badge&color=6366f1&label=VISITORS" alt="Profile Views"/>
 </p>
 
+<!-- QUICK IMPACT METRICS -->
+<p>
+<img src="https://img.shields.io/badge/Experience-3.9_Years-a78bfa?style=flat-square&labelColor=1a1040" alt="Experience"/>
+<img src="https://img.shields.io/badge/Incidents_Resolved-500+-7c3aed?style=flat-square&labelColor=1a1040" alt="Incidents"/>
+<img src="https://img.shields.io/badge/ML_Features-10+-6366f1?style=flat-square&labelColor=1a1040" alt="ML Features"/>
+<img src="https://img.shields.io/badge/Uptime-98%25-2ea44f?style=flat-square&labelColor=1a1040" alt="Uptime"/>
+<img src="https://img.shields.io/badge/Downtime_Cut-30%25-ff6b6b?style=flat-square&labelColor=1a1040" alt="Downtime"/>
+</p>
+
 </div>
 
 <!-- ─────────────────────────────────── ABOUT ─────────────────────────────────── -->
@@ -44,7 +53,8 @@ superpowers:
   data:        [ Pandas, NumPy, Matplotlib, Power BI ]
   databases:   [ PostgreSQL, MySQL ]
   cloud:       [ AWS, Docker, Azure ]
-  tools:       [ Git, Bash, Selenium, PyTest ]
+  testing:     [ PyTest, Selenium, QA Automation ]
+  tools:       [ Git, Bash, Postman, PowerShell ]
 
 currently:
   building:    "AI Agents with ADK framework & Gen AI systems"
@@ -105,14 +115,31 @@ class Akanksha:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
 
-## 💼 &nbsp;Professional Experience
+## 💼 &nbsp;Professional Journey
+
+<!-- TIMELINE VISUAL -->
+<div align="center">
+
+```
+  🟣 Oct 2024                                                    🟣 Present
+   ├──────────────── Samsung SDS • Sr. Executive Engineer ──────────────┤
+   │  AI Agents  •  RAG Pipelines  •  QA Automation  •  Gen AI        │
+   └────────────────────────────────────────────────────────────────────┘
+
+  🔵 Sep 2022                                                    🔵 Sep 2024
+   ├──────────────── HCLTech Pvt. Ltd • Software Engineer ─────────────┤
+   │  ML Deployment  •  Power BI  •  AWS/Azure  •  500+ Incidents      │
+   └────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🏢 Samsung SDS, Gurugram
-**Senior Executive Engineer** &nbsp;`Oct 2024 – Present`
+<img src="https://img.shields.io/badge/Senior_Executive_Engineer-7c3aed?style=for-the-badge&logoColor=white" alt="Role"/> <img src="https://img.shields.io/badge/Oct_2024_–_Present-0d1117?style=for-the-badge&logoColor=white" alt="Duration"/>
 
 - 🤖 Developed specialised **AI agents** using the **ADK framework** for auto content generation & evaluation
 - ⚙️ Built **o9 Optimizer Agent** for resolving optimization issues across Reports in various Tenants
@@ -121,12 +148,13 @@ class Akanksha:
 - 🧠 Implemented **embeddings & vector database** for unstructured financial data retrieval
 - 🚀 Deployed **LLM role assignment** with token optimization using divide-and-conquer strategy
 - 🔌 Created Python plugin integrations on the **o9 Solution Platform**
+- 📈 Delivered **Weekly Productivity reports** through end-to-end RAG with Partition PDF extraction
 
 </td>
 <td width="50%" valign="top">
 
 ### 💼 HCLTech Pvt. Ltd, Noida
-**Software Engineer** &nbsp;`Sep 2022 – Sep 2024`
+<img src="https://img.shields.io/badge/Software_Engineer-6366f1?style=for-the-badge&logoColor=white" alt="Role"/> <img src="https://img.shields.io/badge/Sep_2022_–_Sep_2024-0d1117?style=for-the-badge&logoColor=white" alt="Duration"/>
 
 - 🌐 Engineered & sustained web applications for **recruitment & job rotation**
 - 📈 Built daily scheduler status reports for **3+ applications** using **Power BI**
@@ -140,6 +168,38 @@ class Akanksha:
 </tr>
 </table>
 
+<!-- ────────────────────── IMPACT METRICS ─────────────────────────────────────── -->
+
+<div align="center">
+<br/>
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/3.9-000000?style=for-the-badge&logoColor=white" alt=""/><br/>
+<b>Years of</b><br/><sub>Engineering Impact</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/500+-ff6b6b?style=for-the-badge&logoColor=white" alt=""/><br/>
+<b>Incidents</b><br/><sub>Resolved</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/10+-7c3aed?style=for-the-badge&logoColor=white" alt=""/><br/>
+<b>ML Features</b><br/><sub>Deployed to Prod</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/98%25-2ea44f?style=for-the-badge&logoColor=white" alt=""/><br/>
+<b>Service</b><br/><sub>Reliability Rate</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/30%25-6366f1?style=for-the-badge&logoColor=white" alt=""/><br/>
+<b>Downtime</b><br/><sub>Reduction</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
 <!-- ──────────────────────────────── TECH STACK ───────────────────────────────── -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
@@ -150,31 +210,44 @@ class Akanksha:
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/—_LANGUAGES_&_BACKEND_—-0d1117?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/—_LANGUAGES_—-0d1117?style=flat-square" alt=""/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python,flask,django&theme=dark" alt="Backend Row 1" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql&theme=dark" alt="Backend Row 2" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<br/><sub><b>Python • SQL</b></sub>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/—_AI_/_ML_/_DATA_—-0d1117?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/—_BACKEND_—-0d1117?style=flat-square" alt=""/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark" alt="AI Row 1" />
+<img src="https://skillicons.dev/icons?i=flask,django&theme=dark" alt="Backend Row 1" />
 <br/>
-<img src="https://skillicons.dev/icons?i=selenium,html,css&theme=dark" alt="AI Row 2" />
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="Backend Row 2" />
+<br/><sub><b>Flask • Django • FastAPI</b></sub>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/—_CLOUD_&_TOOLS_—-0d1117?style=flat-square" alt=""/>
+<img src="https://img.shields.io/badge/—_DATABASES_—-0d1117?style=flat-square" alt=""/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,azure&theme=dark" alt="Cloud Row 1" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="DB Row 1" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools Row 2" />
+<img src="https://img.shields.io/badge/Vector_DB-7c3aed?style=flat-square" alt="VectorDB"/>
+<br/><sub><b>PostgreSQL • MySQL • Vector DB</b></sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/—_CLOUD_&_DEVOPS_—-0d1117?style=flat-square" alt=""/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" alt="Cloud Row 1" />
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,bash&theme=dark" alt="Cloud Row 2" />
+<br/><sub><b>AWS • Docker • Azure • Bash</b></sub>
 
 </td>
 </tr>
@@ -182,7 +255,7 @@ class Akanksha:
 
 <br/>
 
-### 🤖 &nbsp;AI, ML & Data Science
+### 🤖 &nbsp;AI, Machine Learning & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
@@ -190,13 +263,32 @@ class Akanksha:
 <img src="https://img.shields.io/badge/SpaCy_NLP-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy"/>
 <img src="https://img.shields.io/badge/LLMs_&_Gen_AI-7c3aed?style=for-the-badge&logoColor=white" alt="LLMs"/>
 <img src="https://img.shields.io/badge/RAG_Pipelines-6366f1?style=for-the-badge&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/ADK_Framework-a78bfa?style=for-the-badge&logoColor=white" alt="ADK"/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+### 🛠️ &nbsp;Development & Testing Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SSMS"/>
+<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
 
 </div>
@@ -220,6 +312,7 @@ class Akanksha:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gen_AI-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/imaakanksha/AgenticAI-Workshop?style=flat-square&color=a78bfa&labelColor=0d1117"/>
 </p>
 
 `Multi-Agent` `LLM Orchestration` `Tool-Use` `ADK`
@@ -234,6 +327,7 @@ class Akanksha:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Agent-412991?style=flat-square"/>
 <img src="https://img.shields.io/badge/S%26OP-ff6b6b?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/imaakanksha/o9OptimizerAgent?style=flat-square&color=a78bfa&labelColor=0d1117"/>
 </p>
 
 `EKG Health Check` `Maturity Advisor` `Enterprise`
@@ -250,6 +344,7 @@ class Akanksha:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Async-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/imaakanksha/Multi-Agent-For-MGT?style=flat-square&color=a78bfa&labelColor=0d1117"/>
 </p>
 
 `Guardrails` `LLM Tool Selection` `Eval Harness`
@@ -264,6 +359,7 @@ class Akanksha:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data_Viz-6366f1?style=flat-square"/>
 <img src="https://img.shields.io/badge/Analytics-2ea44f?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/imaakanksha/ProductivityAnalyzer?style=flat-square&color=a78bfa&labelColor=0d1117"/>
 </p>
 
 `OKR Tracking` `Capacity Planning` `Weekly Reports`
@@ -280,6 +376,7 @@ class Akanksha:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-09A3D5?style=flat-square"/>
 <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/imaakanksha/Urban-Intelligence-Dashboard-Final?style=flat-square&color=a78bfa&labelColor=0d1117"/>
 </p>
 
 `Knowledge Graph` `Real-Time Insights` `Accident Prevention`
@@ -294,6 +391,7 @@ class Akanksha:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-ff6b6b?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI-412991?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/imaakanksha/ATS-Master-Resume-Optimizer?style=flat-square&color=a78bfa&labelColor=0d1117"/>
 </p>
 
 `Resume Parsing` `Score Optimization` `Keyword Analysis`
@@ -379,24 +477,28 @@ class Akanksha:
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
 ### 🎖️ Achievements
 
-🥇 **1st Place** — National Science Day 2022, BCST Bihar <br/>
-🥇 **1st Place** — AI & ML Online Training, EdgeFX Technologies <br/>
-🥇 **1st Place** — Boot Camp & Hackathon, Emerging Tech (TEQIP-III) <br/>
-⭐ **NPTEL Star**, **Domain Scholar** & **Discipline Star** (2021 & 2022)
+<table>
+<tr><td>🥇</td><td><b>1st Place</b> — National Science Day 2022, BCST Bihar</td></tr>
+<tr><td>🥇</td><td><b>1st Place</b> — AI & ML Online Training, EdgeFX Technologies</td></tr>
+<tr><td>🥇</td><td><b>1st Place</b> — Boot Camp & Hackathon, Emerging Tech (TEQIP-III)</td></tr>
+<tr><td>⭐</td><td><b>NPTEL Star</b>, <b>Domain Scholar</b> & <b>Discipline Star</b> (2021 & 2022)</td></tr>
+</table>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-### 📜 Certifications
+### 📜 Certifications & Education
 
-🎓 **AI Programming with Python** — Udemy Nano Degree Program <br/>
-🎓 **Full Stack Web Development** — E & ICT Academy, IIT Kanpur <br/>
-🎓 **B.Tech** — Aryabhatta Knowledge University, 2022 <br/>
-🎓 **Diploma in Computer Application** — ARCADE Academy, 2018
+<table>
+<tr><td>🎓</td><td><b>AI Programming with Python</b> — Udemy Nano Degree Program</td></tr>
+<tr><td>🎓</td><td><b>Full Stack Web Development</b> — E & ICT Academy, IIT Kanpur</td></tr>
+<tr><td>🏛️</td><td><b>B.Tech</b> — Aryabhatta Knowledge University, 2022</td></tr>
+<tr><td>🏛️</td><td><b>Diploma in Computer Application</b> — ARCADE Academy, 2018</td></tr>
+</table>
 
 </td>
 </tr>
@@ -422,18 +524,6 @@ class Akanksha:
 ⚙️ DevOps & Cloud        ██░░░░░░░░░░░░░░░░░░░░░░░░   8%
 ```
 <!--END_SECTION:waka-->
-
-<br/>
-
-<table>
-<tr>
-<td align="center"><b>🏢 3.9</b><br/>Years Experience</td>
-<td align="center"><b>🤖 500+</b><br/>Incidents Resolved</td>
-<td align="center"><b>📊 10+</b><br/>ML Features Deployed</td>
-<td align="center"><b>☁️ 98%</b><br/>Service Reliability</td>
-<td align="center"><b>📉 30%</b><br/>Downtime Reduction</td>
-</tr>
-</table>
 
 </div>
 
@@ -478,32 +568,39 @@ class Akanksha:
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 🤖<br/>
 **Gen AI & LLMs**<br/>
-<sub>AI Agents (ADK)<br/>RAG Pipelines<br/>Prompt Engineering</sub>
+<sub>AI Agents (ADK)<br/>RAG Pipelines<br/>Prompt Engineering<br/>Vector Databases</sub>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ⚡<br/>
 **Backend Dev**<br/>
-<sub>Flask & Django<br/>REST APIs & FastAPI<br/>PostgreSQL & MySQL</sub>
+<sub>Flask & Django<br/>REST APIs & FastAPI<br/>PostgreSQL & MySQL<br/>Microservices</sub>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 📊<br/>
 **Data & ML**<br/>
-<sub>Scikit-Learn & PyTorch<br/>NLP with SpaCy<br/>Power BI & Matplotlib</sub>
+<sub>Scikit-Learn & PyTorch<br/>NLP with SpaCy<br/>Power BI & Matplotlib<br/>Pandas & NumPy</sub>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ☁️<br/>
 **Cloud & DevOps**<br/>
-<sub>AWS & Azure<br/>Docker & CI/CD<br/>QA Automation</sub>
+<sub>AWS & Azure<br/>Docker & CI/CD<br/>QA Automation<br/>Selenium & PyTest</sub>
+
+</td>
+<td align="center" width="20%">
+
+💡<br/>
+**Soft Skills**<br/>
+<sub>Communication<br/>Problem Solving<br/>Team Collaboration<br/>Analytical Thinking</sub>
 
 </td>
 </tr>
