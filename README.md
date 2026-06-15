@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:1a1040,35:2d1b69,50:6366f1,70:7c3aed,85:a78bfa,100:c4b5fd&height=280&section=header&text=Hey%20there,%20I'm%20Akanksha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20%E2%80%A2%20AI%20%26%20ML%20Engineer%20%E2%80%A2%20Data%20Analyst&descSize=16&descAlignY=52&descColor=e2d9f3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:1a1040,35:2d1b69,50:6366f1,70:7c3aed,85:a78bfa,100:c4b5fd&height=280&section=header&text=Hey%20there,%20I'm%20Akanksha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Senior%20Executive%20Engineer%20%E2%80%A2%20AI%20%26%20ML%20Engineer%20%E2%80%A2%20Data%20Analyst&descSize=16&descAlignY=52&descColor=e2d9f3" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=835&height=100&lines=%F0%9F%A7%A0+Building+AI+agents+%26+Gen+AI+powered+systems;%F0%9F%9A%80+Shipping+production-grade+backend+applications;%F0%9F%94%AC+Machine+Learning+%7C+NLP+%7C+Data+Analysis;%E2%9C%A8+3.9+years+of+engineering+impact+at+enterprise+scale" alt="Typing SVG" /></a>
@@ -14,19 +14,19 @@
 
 <!-- SOCIAL BADGES -->
 <p>
-<a href="https://www.linkedin.com/in/iamakanksha"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://github.com/imaakanksha"><img src="https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<a href="mailto:summiakanksha123@gmail.com"><img src="https://img.shields.io/badge/-Mail_Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=imaakanksha&style=for-the-badge&color=6366f1&label=VISITORS" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/iamakanksha"><img src="https://img.shields.io/badge/-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://github.com/imaakanksha"><img src="https://img.shields.io/badge/-Follow-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="mailto:summiakanksha123@gmail.com"><img src="https://img.shields.io/badge/-Mail_Me-a78bfa?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=imaakanksha&style=for-the-badge&color=7c3aed&label=VISITORS" alt="Profile Views"/>
 </p>
 
 <!-- QUICK IMPACT METRICS -->
 <p>
-<img src="https://img.shields.io/badge/Experience-3.9_Years-a78bfa?style=flat-square&labelColor=1a1040" alt="Experience"/>
-<img src="https://img.shields.io/badge/Incidents_Resolved-500+-7c3aed?style=flat-square&labelColor=1a1040" alt="Incidents"/>
-<img src="https://img.shields.io/badge/ML_Features-10+-6366f1?style=flat-square&labelColor=1a1040" alt="ML Features"/>
-<img src="https://img.shields.io/badge/Uptime-98%25-2ea44f?style=flat-square&labelColor=1a1040" alt="Uptime"/>
-<img src="https://img.shields.io/badge/Downtime_Cut-30%25-ff6b6b?style=flat-square&labelColor=1a1040" alt="Downtime"/>
+<img src="https://img.shields.io/badge/Experience-3.9_Years-7c3aed?style=flat-square&logo=codeforces&logoColor=white" alt="Experience"/>
+<img src="https://img.shields.io/badge/Incidents_Resolved-500+-ff6b6b?style=flat-square&logo=opsgenie&logoColor=white" alt="Incidents"/>
+<img src="https://img.shields.io/badge/ML_Features-10+-6366f1?style=flat-square&logo=pytorch&logoColor=white" alt="ML Features"/>
+<img src="https://img.shields.io/badge/Service_Reliability-98%25-2ea44f?style=flat-square&logo=uptime-kuma&logoColor=white" alt="Uptime"/>
+<img src="https://img.shields.io/badge/Downtime_Cut-30%25-a78bfa?style=flat-square&logo=statuspage&logoColor=white" alt="Downtime"/>
 </p>
 
 </div>
@@ -44,7 +44,7 @@ name: Akanksha
 pronouns: she/her
 location: Gurugram, Haryana, India 🇮🇳
 role: Senior Executive Engineer @ Samsung SDS
-experience: 3+ Years in Software Engineering
+experience: 3.9 Years in Software Engineering
 
 superpowers:
   languages:   [ Python, SQL ]
@@ -65,6 +65,8 @@ philosophy: "Automate the mundane, engineer the extraordinary ⚡"
 ```
 
 <br clear="right"/>
+
+> 💬 *Skilled and results-driven software engineer with **3 years 9 months** of experience developing and maintaining critical web applications. Proficient in **Backend Development**, **Data Analysis**, and **Machine Learning**. Adept at leveraging Python libraries and frameworks to deliver efficient, enterprise-grade solutions.*
 
 <table>
 <tr>
@@ -139,7 +141,7 @@ class Akanksha:
 <td width="50%" valign="top">
 
 ### 🏢 Samsung SDS, Gurugram
-<img src="https://img.shields.io/badge/Senior_Executive_Engineer-7c3aed?style=for-the-badge&logoColor=white" alt="Role"/> <img src="https://img.shields.io/badge/Oct_2024_–_Present-0d1117?style=for-the-badge&logoColor=white" alt="Duration"/>
+<img src="https://img.shields.io/badge/Senior_Executive_Engineer-7c3aed?style=for-the-badge&logo=samsung&logoColor=white" alt="Role"/> <img src="https://img.shields.io/badge/Oct_2024_–_Present-0d1117?style=for-the-badge&logoColor=white" alt="Duration"/>
 
 - 🤖 Developed specialised **AI agents** using the **ADK framework** for auto content generation & evaluation
 - ⚙️ Built **o9 Optimizer Agent** for resolving optimization issues across Reports in various Tenants
@@ -154,7 +156,7 @@ class Akanksha:
 <td width="50%" valign="top">
 
 ### 💼 HCLTech Pvt. Ltd, Noida
-<img src="https://img.shields.io/badge/Software_Engineer-6366f1?style=for-the-badge&logoColor=white" alt="Role"/> <img src="https://img.shields.io/badge/Sep_2022_–_Sep_2024-0d1117?style=for-the-badge&logoColor=white" alt="Duration"/>
+<img src="https://img.shields.io/badge/Software_Engineer-6366f1?style=for-the-badge&logo=hcltech&logoColor=white" alt="Role"/> <img src="https://img.shields.io/badge/Sep_2022_–_Sep_2024-0d1117?style=for-the-badge&logoColor=white" alt="Duration"/>
 
 - 🌐 Engineered & sustained web applications for **recruitment & job rotation**
 - 📈 Built daily scheduler status reports for **3+ applications** using **Power BI**
@@ -168,31 +170,30 @@ class Akanksha:
 </tr>
 </table>
 
-<!-- ────────────────────── IMPACT METRICS ─────────────────────────────────────── -->
-
+<!-- IMPACT METRICS -->
 <div align="center">
 <br/>
 
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/3.9-000000?style=for-the-badge&logoColor=white" alt=""/><br/>
+<img src="https://img.shields.io/badge/3.9_Years-7c3aed?style=for-the-badge&logo=scrimba&logoColor=white" alt=""/><br/>
 <b>Years of</b><br/><sub>Engineering Impact</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/500+-ff6b6b?style=for-the-badge&logoColor=white" alt=""/><br/>
+<img src="https://img.shields.io/badge/500+-ff6b6b?style=for-the-badge&logo=opsgenie&logoColor=white" alt=""/><br/>
 <b>Incidents</b><br/><sub>Resolved</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/10+-7c3aed?style=for-the-badge&logoColor=white" alt=""/><br/>
+<img src="https://img.shields.io/badge/10+-6366f1?style=for-the-badge&logo=pytorch&logoColor=white" alt=""/><br/>
 <b>ML Features</b><br/><sub>Deployed to Prod</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/98%25-2ea44f?style=for-the-badge&logoColor=white" alt=""/><br/>
+<img src="https://img.shields.io/badge/98%25-2ea44f?style=for-the-badge&logo=uptime-kuma&logoColor=white" alt=""/><br/>
 <b>Service</b><br/><sub>Reliability Rate</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/30%25-6366f1?style=for-the-badge&logoColor=white" alt=""/><br/>
+<img src="https://img.shields.io/badge/30%25-a78bfa?style=for-the-badge&logo=statuspage&logoColor=white" alt=""/><br/>
 <b>Downtime</b><br/><sub>Reduction</sub>
 </td>
 </tr>
@@ -214,7 +215,7 @@ class Akanksha:
 
 <img src="https://img.shields.io/badge/—_LANGUAGES_—-0d1117?style=flat-square" alt=""/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
 <br/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 <br/><sub><b>Python • SQL</b></sub>
@@ -224,9 +225,7 @@ class Akanksha:
 
 <img src="https://img.shields.io/badge/—_BACKEND_—-0d1117?style=flat-square" alt=""/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=flask,django&theme=dark" alt="Backend Row 1" />
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="Backend Row 2" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,django,fastapi&theme=dark" alt="Backend" /></a>
 <br/><sub><b>Flask • Django • FastAPI</b></sub>
 
 </td>
@@ -234,7 +233,7 @@ class Akanksha:
 
 <img src="https://img.shields.io/badge/—_DATABASES_—-0d1117?style=flat-square" alt=""/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="DB Row 1" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" /></a>
 <br/>
 <img src="https://img.shields.io/badge/Vector_DB-7c3aed?style=flat-square" alt="VectorDB"/>
 <br/><sub><b>PostgreSQL • MySQL • Vector DB</b></sub>
@@ -244,9 +243,7 @@ class Akanksha:
 
 <img src="https://img.shields.io/badge/—_CLOUD_&_DEVOPS_—-0d1117?style=flat-square" alt=""/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" alt="Cloud Row 1" />
-<br/>
-<img src="https://skillicons.dev/icons?i=azure,bash&theme=dark" alt="Cloud Row 2" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,azure,bash&theme=dark" alt="Cloud & DevOps" /></a>
 <br/><sub><b>AWS • Docker • Azure • Bash</b></sub>
 
 </td>
@@ -261,14 +258,14 @@ class Akanksha:
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/SpaCy_NLP-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy"/>
-<img src="https://img.shields.io/badge/LLMs_&_Gen_AI-7c3aed?style=for-the-badge&logoColor=white" alt="LLMs"/>
+<img src="https://img.shields.io/badge/LLMs_&_Gen_AI-7c3aed?style=for-the-badge&logo=white" alt="LLMs"/>
 <img src="https://img.shields.io/badge/RAG_Pipelines-6366f1?style=for-the-badge&logoColor=white" alt="RAG"/>
 <img src="https://img.shields.io/badge/ADK_Framework-a78bfa?style=for-the-badge&logoColor=white" alt="ADK"/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
@@ -315,7 +312,7 @@ class Akanksha:
 <img src="https://img.shields.io/github/stars/imaakanksha/AgenticAI-Workshop?style=flat-square&color=a78bfa&labelColor=0d1117"/>
 </p>
 
-`Multi-Agent` `LLM Orchestration` `Tool-Use` `ADK`
+<code>Multi-Agent</code> <code>LLM Orchestration</code> <code>Tool-Use</code> <code>ADK</code>
 
 </td>
 <td width="50%">
@@ -330,7 +327,7 @@ class Akanksha:
 <img src="https://img.shields.io/github/stars/imaakanksha/o9OptimizerAgent?style=flat-square&color=a78bfa&labelColor=0d1117"/>
 </p>
 
-`EKG Health Check` `Maturity Advisor` `Enterprise`
+<code>EKG Health Check</code> <code>Maturity Advisor</code> <code>Enterprise</code>
 
 </td>
 </tr>
@@ -347,7 +344,7 @@ class Akanksha:
 <img src="https://img.shields.io/github/stars/imaakanksha/Multi-Agent-For-MGT?style=flat-square&color=a78bfa&labelColor=0d1117"/>
 </p>
 
-`Guardrails` `LLM Tool Selection` `Eval Harness`
+<code>Guardrails</code> <code>LLM Tool Selection</code> <code>Eval Harness</code>
 
 </td>
 <td width="50%">
@@ -362,7 +359,7 @@ class Akanksha:
 <img src="https://img.shields.io/github/stars/imaakanksha/ProductivityAnalyzer?style=flat-square&color=a78bfa&labelColor=0d1117"/>
 </p>
 
-`OKR Tracking` `Capacity Planning` `Weekly Reports`
+<code>OKR Tracking</code> <code>Capacity Planning</code> <code>Weekly Reports</code>
 
 </td>
 </tr>
@@ -379,7 +376,7 @@ class Akanksha:
 <img src="https://img.shields.io/github/stars/imaakanksha/Urban-Intelligence-Dashboard-Final?style=flat-square&color=a78bfa&labelColor=0d1117"/>
 </p>
 
-`Knowledge Graph` `Real-Time Insights` `Accident Prevention`
+<code>Knowledge Graph</code> <code>Real-Time Insights</code> <code>Accident Prevention</code>
 
 </td>
 <td width="50%">
@@ -394,7 +391,7 @@ class Akanksha:
 <img src="https://img.shields.io/github/stars/imaakanksha/ATS-Master-Resume-Optimizer?style=flat-square&color=a78bfa&labelColor=0d1117"/>
 </p>
 
-`Resume Parsing` `Score Optimization` `Keyword Analysis`
+<code>Resume Parsing</code> <code>Score Optimization</code> <code>Keyword Analysis</code>
 
 </td>
 </tr>
@@ -420,50 +417,6 @@ class Akanksha:
 <br/><br/>
 
 <a href="https://github.com/imaakanksha?tab=repositories"><img src="https://img.shields.io/badge/🔭_Explore_All_Repositories_→-7c3aed?style=for-the-badge&logoColor=white" alt="All Repos"/></a>
-
-</div>
-
-<!-- ──────────────────────────── GITHUB ANALYTICS ─────────────────────────────── -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-## 📈 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/imaakanksha">
-<img src="https://github-readme-stats.vercel.app/api?username=imaakanksha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&rank_icon=github&show=reviews,discussions_started,prs_merged" alt="GitHub Stats" height="195"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/imaakanksha">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imaakanksha&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=a78bfa&sideNums=a78bfa&dates=6e7681" alt="GitHub Streak" width="700"/>
-</a>
-
-</div>
-
-<!-- ──────────────────────────── TROPHIES ─────────────────────────────────────── -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=imaakanksha&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
-<!-- ──────────────────────────── CONTRIBUTION GRAPH ───────────────────────────── -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-## 📊 &nbsp;Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imaakanksha&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -605,6 +558,47 @@ class Akanksha:
 </td>
 </tr>
 </table>
+
+</div>
+
+<!-- ──────────────────────────── GITHUB ANALYTICS ─────────────────────────────── -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+
+## 📈 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/imaakanksha">
+<img src="https://github-readme-stats.vercel.app/api?username=imaakanksha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&rank_icon=github&show=reviews,discussions_started,prs_merged" alt="GitHub Stats" height="195"/>
+</a>
+<a href="https://github.com/imaakanksha">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imaakanksha&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=a78bfa&sideNums=a78bfa&dates=6e7681" alt="GitHub Streak" height="195"/>
+</a>
+
+</div>
+
+<!-- ──────────────────────────── TROPHIES ─────────────────────────────────────── -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+
+## 🏆 &nbsp;Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=imaakanksha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+
+</div>
+
+<!-- ──────────────────────────── CONTRIBUTION GRAPH ───────────────────────────── -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+
+## 📊 &nbsp;Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imaakanksha&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" width="100%"/>
 
 </div>
 
