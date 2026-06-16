@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:1a1040,35:2d1b69,50:6366f1,70:7c3aed,85:a78bfa,100:c4b5fd&height=280&section=header&text=Hey%20there,%20I'm%20Akanksha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Senior%20Executive%20Engineer%20%E2%80%A2%20AI%20%26%20ML%20Engineer%20%E2%80%A2%20Data%20Analyst&descSize=16&descAlignY=52&descColor=e2d9f3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:1a1040,35:2d1b69,50:6366f1,70:7c3aed,85:a78bfa,100:c4b5fd&height=280&section=header&text=Hey%20there,%20I'm%20Akanksha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Senior%20Executive%20Engineer%20•%20AI%20%26%20ML%20Engineer%20•%20Data%20Analyst&descSize=16&descAlignY=52&descColor=e2d9f3" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=835&height=100&lines=%F0%9F%A7%A0+Building+AI+agents+%26+Gen+AI+powered+systems;%F0%9F%9A%80+Shipping+production-grade+backend+applications;%F0%9F%94%AC+Machine+Learning+%7C+NLP+%7C+Data+Analysis;%E2%9C%A8+3.9+years+of+engineering+impact+at+enterprise+scale" alt="Typing SVG" /></a>
@@ -22,92 +22,59 @@
 
 <!-- QUICK IMPACT METRICS -->
 <p>
-<img src="https://img.shields.io/badge/Experience-3.9_Years-7c3aed?style=flat-square&logo=codeforces&logoColor=white" alt="Experience"/>
-<img src="https://img.shields.io/badge/Incidents_Resolved-500+-ff6b6b?style=flat-square&logo=opsgenie&logoColor=white" alt="Incidents"/>
-<img src="https://img.shields.io/badge/ML_Features-10+-6366f1?style=flat-square&logo=pytorch&logoColor=white" alt="ML Features"/>
-<img src="https://img.shields.io/badge/Service_Reliability-98%25-2ea44f?style=flat-square&logo=uptime-kuma&logoColor=white" alt="Uptime"/>
-<img src="https://img.shields.io/badge/Downtime_Cut-30%25-a78bfa?style=flat-square&logo=statuspage&logoColor=white" alt="Downtime"/>
+  <img src="https://img.shields.io/badge/Experience-3.9_Years-7c3aed?style=flat-square&logo=python&logoColor=white" alt="Experience"/>
+  <img src="https://img.shields.io/badge/AI/ML_Features-10+-6366f1?style=flat-square&logo=pytorch&logoColor=white" alt="AI/ML Features"/>
+  <img src="https://img.shields.io/badge/Incidents_Resolved-500+-ff6b6b?style=flat-square&logo=opsgenie&logoColor=white" alt="Incidents"/>
+  <img src="https://img.shields.io/badge/Service_Reliability-98%25-2ea44f?style=flat-square&logo=uptime-kuma&logoColor=white" alt="Uptime"/>
+  <img src="https://img.shields.io/badge/Downtime_Reduced-30%25-a78bfa?style=flat-square&logo=statuspage&logoColor=white" alt="Downtime"/>
 </p>
 
 </div>
 
 <!-- ─────────────────────────────────── ABOUT ─────────────────────────────────── -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<hr/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## 💬 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaakanksha&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" alt="Top Languages" width="280"/>
-
-```yaml
-name: Akanksha
-pronouns: she/her
-location: Gurugram, Haryana, India 🇮🇳
-role: Senior Executive Engineer @ Samsung SDS
-experience: 3.9 Years in Software Engineering
-
-superpowers:
-  languages:   [ Python, SQL ]
-  backend:     [ Flask, Django, FastAPI, REST APIs ]
-  ai_ml:       [ Scikit-Learn, PyTorch, SpaCy (NLP), LLMs, Gen AI ]
-  data:        [ Pandas, NumPy, Matplotlib, Power BI ]
-  databases:   [ PostgreSQL, MySQL ]
-  cloud:       [ AWS, Docker, Azure ]
-  testing:     [ PyTest, Selenium, QA Automation ]
-  tools:       [ Git, Bash, Postman, PowerShell ]
-
-currently:
-  building:    "AI Agents with ADK framework & Gen AI systems"
-  working_on:  "RAG pipelines, vector databases & LLM orchestration"
-  exploring:   "Advanced prompt engineering & agentic workflows"
-
-philosophy: "Automate the mundane, engineer the extraordinary ⚡"
-```
-
-<br clear="right"/>
-
-> 💬 *Skilled and results-driven software engineer with **3 years 9 months** of experience developing and maintaining critical web applications. Proficient in **Backend Development**, **Data Analysis**, and **Machine Learning**. Adept at leveraging Python libraries and frameworks to deliver efficient, enterprise-grade solutions.*
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🎯 &nbsp;Current Focus
+### ⚡ Professional Summary
+I am a results-driven **Senior Executive Engineer at Samsung SDS** with **3.9 years** of software engineering experience. My expertise lies in designing and building autonomous **AI agents**, production-grade **RAG pipelines**, and automated **QA validation systems**. I am passionate about optimizing data workflows and architecting intelligent, scalable enterprise integrations.
 
-| Area | Details |
-|------|---------|
-| 🤖 **Gen AI & LLMs** | AI agents with ADK framework at Samsung SDS |
-| 📊 **RAG Systems** | End-to-end RAG for processing annual reports |
-| 🧪 **QA Automation** | Automating QA processes & accuracy reporting |
-| ⚙️ **o9 Platform** | Python plugin integrations & report optimization |
-| 🔬 **NLP & ML** | Predictive analytics & knowledge graph systems |
+> *"Automate the mundane, engineer the extraordinary ⚡"*
+
+#### 🎯 Current Focus Areas
+- 🤖 **Gen AI & Agents**: Designing stateful, autonomous agentic workflows using the ADK framework.
+- 📊 **Advanced RAG**: Developing end-to-end financial/annual report retrieval engines with PDF partitioning (GMFT).
+- 🧪 **QA Automation**: Creating robust automated testing rigs for reliability and accuracy tracking.
+- ⚙️ **Enterprise Integrations**: Integrating Python plugins and workflows on the o9 Solutions platform.
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top" align="center">
 
-### ⚡ &nbsp;Quick Facts
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaakanksha&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" alt="Top Languages" width="260"/>
 
-```python
-class Akanksha:
-    pronouns = "she/her"
-    languages = ["Python", "SQL"]
-    experience = "3.9 years"
-    
-    career_path = [
-        "🏢 Samsung SDS   → Sr. Executive Engineer",
-        "💼 HCLTech       → Software Engineer",
-    ]
+<details>
+<summary><b>🛠️ System Config (profile.yaml)</b></summary>
+<br/>
 
-    daily_loop = [
-        "☕ chai",
-        "💻 code",
-        "🤖 automate",
-        "🎯 ship",
-        "🔁 repeat",
-    ]
-
-    fun_fact = "I automate my automations 🤷‍♀️"
+```yaml
+identity:
+  name: Akanksha
+  pronouns: she/her
+  location: Gurugram, India 🇮🇳
+  
+facts:
+  experience: 3.9 Years
+  languages: [Python, SQL]
+  career_path:
+    - Samsung SDS
+    - HCLTech
 ```
+</details>
 
 </td>
 </tr>
@@ -115,136 +82,73 @@ class Akanksha:
 
 <!-- ────────────────────────────── WORK EXPERIENCE ────────────────────────────── -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<hr/>
 
-## 💼 &nbsp;Professional Journey
+## 💼 Professional Journey
 
-<!-- TIMELINE VISUAL -->
-<div align="center">
-
-```
-  🟣 Oct 2024                                                    🟣 Present
-   ├──────────────── Samsung SDS • Sr. Executive Engineer ──────────────┤
-   │  AI Agents  •  RAG Pipelines  •  QA Automation  •  Gen AI        │
-   └────────────────────────────────────────────────────────────────────┘
-
-  🔵 Sep 2022                                                    🔵 Sep 2024
-   ├──────────────── HCLTech Pvt. Ltd • Software Engineer ─────────────┤
-   │  ML Deployment  •  Power BI  •  AWS/Azure  •  500+ Incidents      │
-   └────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Samsung SDS, Gurugram
-<img src="https://img.shields.io/badge/Senior_Executive_Engineer-7c3aed?style=for-the-badge&logo=samsung&logoColor=white" alt="Role"/> <img src="https://img.shields.io/badge/Oct_2024_–_Present-0d1117?style=for-the-badge&logoColor=white" alt="Duration"/>
-
-- 🤖 Developed specialised **AI agents** using the **ADK framework** for auto content generation & evaluation
-- ⚙️ Built **o9 Optimizer Agent** for resolving optimization issues across Reports in various Tenants
-- 🧪 Implemented **QA Automation Engine** to automate all QA processes with accuracy reporting
-- 📊 Developed end-to-end **RAG system** for processing annual reports with advanced PDF extraction (GMFT)
-- 🧠 Implemented **embeddings & vector database** for unstructured financial data retrieval
-- 🚀 Deployed **LLM role assignment** with token optimization using divide-and-conquer strategy
-- 🔌 Created Python plugin integrations on the **o9 Solution Platform**
-- 📈 Delivered **Weekly Productivity reports** through end-to-end RAG with Partition PDF extraction
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 HCLTech Pvt. Ltd, Noida
-<img src="https://img.shields.io/badge/Software_Engineer-6366f1?style=for-the-badge&logo=hcltech&logoColor=white" alt="Role"/> <img src="https://img.shields.io/badge/Sep_2022_–_Sep_2024-0d1117?style=for-the-badge&logoColor=white" alt="Duration"/>
-
-- 🌐 Engineered & sustained web applications for **recruitment & job rotation**
-- 📈 Built daily scheduler status reports for **3+ applications** using **Power BI**
-- 🤖 Deployed ML algorithms for **10+ features** — profile matching, CV parsing, smart search
-- 🔍 Conducted code reviews, bug fixing & integration testing for **20+ Change Requests**
-- 🛠️ Resolved **500+ incidents**, achieving **30% reduction** in system downtime
-- ☁️ Deployed web services on **AWS & Azure**, achieving **98% service reliability**
-- 🔧 Managed version control with **Git** for task assignment & modifications
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="15%">
+      <img src="https://img.shields.io/badge/Samsung_SDS-Present-7c3aed?style=flat-square" alt="Samsung SDS"/>
+      <br/>
+      <p align="center">┃<br/>┃<br/>┃<br/>┃<br/>┃<br/>┃<br/>┃<br/>┃</p>
+    </td>
+    <td valign="top" width="85%">
+      <strong>Senior Executive Engineer</strong>
+      <br/>
+      <em>Oct 2024 – Present | Gurugram, India</em>
+      <ul>
+        <li>🤖 Developed specialized AI agents using the <strong>ADK framework</strong> for content generation & evaluation.</li>
+        <li>📊 Built an end-to-end <strong>RAG system</strong> for annual reports with advanced PDF extraction.</li>
+        <li>🧪 Implemented a self-healing <strong>QA Automation Engine</strong> with accuracy reporting.</li>
+        <li>🔌 Created Python plugin integrations on the <strong>o9 Solutions Platform</strong>.</li>
+        <li>🚀 Deployed token-optimized LLM role assignment using a divide-and-conquer strategy.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="15%">
+      <img src="https://img.shields.io/badge/HCLTech-2022--2024-6366f1?style=flat-square" alt="HCLTech"/>
+    </td>
+    <td valign="top" width="85%">
+      <strong>Software Engineer</strong>
+      <br/>
+      <em>Sep 2022 – Sep 2024 | Noida, India</em>
+      <ul>
+        <li>🌐 Engineered and sustained web applications for recruitment and job rotations.</li>
+        <li>📈 Built automated scheduler status dashboards using <strong>Power BI</strong>.</li>
+        <li>🤖 Deployed ML algorithms for CV parsing, profile matching, and semantic search.</li>
+        <li>🛠️ Resolved 500+ production incidents, cutting system downtime by <strong>30%</strong>.</li>
+        <li>☁️ Deployed web services on <strong>AWS & Azure</strong>, maintaining 98% reliability.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
-
-<!-- IMPACT METRICS -->
-<div align="center">
-<br/>
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/3.9_Years-7c3aed?style=for-the-badge&logo=scrimba&logoColor=white" alt=""/><br/>
-<b>Years of</b><br/><sub>Engineering Impact</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/500+-ff6b6b?style=for-the-badge&logo=opsgenie&logoColor=white" alt=""/><br/>
-<b>Incidents</b><br/><sub>Resolved</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/10+-6366f1?style=for-the-badge&logo=pytorch&logoColor=white" alt=""/><br/>
-<b>ML Features</b><br/><sub>Deployed to Prod</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/98%25-2ea44f?style=for-the-badge&logo=uptime-kuma&logoColor=white" alt=""/><br/>
-<b>Service</b><br/><sub>Reliability Rate</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/30%25-a78bfa?style=for-the-badge&logo=statuspage&logoColor=white" alt=""/><br/>
-<b>Downtime</b><br/><sub>Reduction</sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 <!-- ──────────────────────────────── TECH STACK ───────────────────────────────── -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<hr/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Tech Arsenal
+## 🛠️ Tech Arsenal
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/—_LANGUAGES_—-0d1117?style=flat-square" alt=""/>
-<br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
-<br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-<br/><sub><b>Python • SQL</b></sub>
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/—_BACKEND_—-0d1117?style=flat-square" alt=""/>
-<br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,django,fastapi&theme=dark" alt="Backend" /></a>
-<br/><sub><b>Flask • Django • FastAPI</b></sub>
+### 🤖 Core & Gen AI Competencies
+*   **Gen AI Orchestration**: Multi-Agent Workflows, ADK Framework
+*   **NLP & ML**: SpaCy, PyTorch, Scikit-Learn, Knowledge Graphs
+*   **Data & Retrieval**: RAG Pipelines, Vector DBs (Chroma, pgvector)
+*   **Data Analysis**: Pandas, NumPy, Matplotlib, Power BI
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/—_DATABASES_—-0d1117?style=flat-square" alt=""/>
-<br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" /></a>
-<br/>
-<img src="https://img.shields.io/badge/Vector_DB-7c3aed?style=flat-square" alt="VectorDB"/>
-<br/><sub><b>PostgreSQL • MySQL • Vector DB</b></sub>
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/—_CLOUD_&_DEVOPS_—-0d1117?style=flat-square" alt=""/>
-<br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,azure,bash&theme=dark" alt="Cloud & DevOps" /></a>
-<br/><sub><b>AWS • Docker • Azure • Bash</b></sub>
+### ⚙️ Backend & Architecture
+*   **Web Frameworks**: FastAPI, Django, Flask, REST APIs
+*   **Databases**: PostgreSQL, MySQL, EKG (Enterprise Knowledge Graphs)
+*   **DevOps & Cloud**: AWS, Azure, Docker, Bash, PowerShell
+*   **Testing & Tools**: QA Automation, Selenium, PyTest, Postman
 
 </td>
 </tr>
@@ -252,218 +156,134 @@ class Akanksha:
 
 <br/>
 
-### 🤖 &nbsp;AI, Machine Learning & Data Science
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/SpaCy_NLP-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy"/>
-<img src="https://img.shields.io/badge/LLMs_&_Gen_AI-7c3aed?style=for-the-badge&logo=white" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-6366f1?style=for-the-badge&logoColor=white" alt="RAG"/>
-<img src="https://img.shields.io/badge/ADK_Framework-a78bfa?style=for-the-badge&logoColor=white" alt="ADK"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-
-### 🛠️ &nbsp;Development & Testing Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SSMS"/>
-<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-</p>
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,flask,django,fastapi,pytorch,sklearn,pandas,numpy,matplotlib,jupyter,aws,azure,docker,bash,powershell,git,github,selenium,pytest,postman,vscode,pycharm&perline=8&theme=dark" alt="Tech Stack Icons Grid" />
+  </a>
 </div>
 
 <!-- ────────────────────────────── FEATURED PROJECTS ──────────────────────────── -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<hr/>
 
-## 🚀 &nbsp;Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 [AgenticAI Workshop](https://github.com/imaakanksha/AgenticAI-Workshop)
-> Multi-agent AI orchestration framework with MCP protocol integration & tool-use patterns
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gen_AI-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/github/stars/imaakanksha/AgenticAI-Workshop?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-
-<code>Multi-Agent</code> <code>LLM Orchestration</code> <code>Tool-Use</code> <code>ADK</code>
-
-</td>
-<td width="50%">
-
-### ⚙️ [o9 Optimizer Agent](https://github.com/imaakanksha/o9OptimizerAgent)
-> AI-powered report optimization and diagnostic advisory suite for o9 Solutions platform
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Agent-412991?style=flat-square"/>
-<img src="https://img.shields.io/badge/S%26OP-ff6b6b?style=flat-square"/>
-<img src="https://img.shields.io/github/stars/imaakanksha/o9OptimizerAgent?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-
-<code>EKG Health Check</code> <code>Maturity Advisor</code> <code>Enterprise</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 [Multi-Agent Research System](https://github.com/imaakanksha/Multi-Agent-For-MGT)
-> Production-grade multi-agent research framework with guardrails, eval harness & async pipelines
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Async-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/github/stars/imaakanksha/Multi-Agent-For-MGT?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-
-<code>Guardrails</code> <code>LLM Tool Selection</code> <code>Eval Harness</code>
-
-</td>
-<td width="50%">
-
-### 📊 [ProductivityAnalyzer](https://github.com/imaakanksha/ProductivityAnalyzer)
-> Enterprise-grade analytics platform for team productivity tracking with real-time dashboards
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Viz-6366f1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Analytics-2ea44f?style=flat-square"/>
-<img src="https://img.shields.io/github/stars/imaakanksha/ProductivityAnalyzer?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-
-<code>OKR Tracking</code> <code>Capacity Planning</code> <code>Weekly Reports</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔬 [Near Miss Incident Analysis](https://github.com/imaakanksha/Urban-Intelligence-Dashboard-Final)
-> Predictive knowledge graph-based web app leveraging NLP for near-miss incident analysis & prevention
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-09A3D5?style=flat-square"/>
-<img src="https://img.shields.io/badge/ML-F7931E?style=flat-square"/>
-<img src="https://img.shields.io/github/stars/imaakanksha/Urban-Intelligence-Dashboard-Final?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-
-<code>Knowledge Graph</code> <code>Real-Time Insights</code> <code>Accident Prevention</code>
-
-</td>
-<td width="50%">
-
-### 📝 [ATS Resume Optimizer](https://github.com/imaakanksha/ATS-Master-Resume-Optimizer)
-> AI-driven resume optimization engine that maximizes ATS compatibility scores using NLP
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-ff6b6b?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-412991?style=flat-square"/>
-<img src="https://img.shields.io/github/stars/imaakanksha/ATS-Master-Resume-Optimizer?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-
-<code>Resume Parsing</code> <code>Score Optimization</code> <code>Keyword Analysis</code>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/imaakanksha/AgenticAI-Workshop">AgenticAI Workshop</a></h3>
+      <p>Multi-agent AI orchestration framework with MCP protocol integration & tool-use patterns.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+        <img src="https://img.shields.io/badge/Gen_AI-7C3AED?style=flat-square" alt="Gen AI"/>
+        <img src="https://img.shields.io/github/stars/imaakanksha/AgenticAI-Workshop?style=flat-square&color=7c3aed&labelColor=1a1a24" alt="Stars"/>
+      </p>
+    </td>
+    <!-- Project 2 -->
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/imaakanksha/o9OptimizerAgent">o9 Optimizer Agent</a></h3>
+      <p>AI-powered report optimization and diagnostic advisory suite for o9 Solutions platform.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/AI_Agent-412991?style=flat-square" alt="AI Agent"/>
+        <img src="https://img.shields.io/badge/Enterprise-ff6b6b?style=flat-square" alt="Enterprise"/>
+        <img src="https://img.shields.io/github/stars/imaakanksha/o9OptimizerAgent?style=flat-square&color=7c3aed&labelColor=1a1a24" alt="Stars"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 3 -->
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/imaakanksha/Multi-Agent-For-MGT">Multi-Agent Research System</a></h3>
+      <p>Production-grade multi-agent research framework with guardrails, eval harness & async pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Async-7C3AED?style=flat-square" alt="Async"/>
+        <img src="https://img.shields.io/github/stars/imaakanksha/Multi-Agent-For-MGT?style=flat-square&color=7c3aed&labelColor=1a1a24" alt="Stars"/>
+      </p>
+    </td>
+    <!-- Project 4 -->
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/imaakanksha/ProductivityAnalyzer">ProductivityAnalyzer</a></h3>
+      <p>Enterprise-grade analytics platform for team productivity tracking with real-time dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Data_Viz-6366F1?style=flat-square" alt="Data Viz"/>
+        <img src="https://img.shields.io/badge/Analytics-2EA44F?style=flat-square" alt="Analytics"/>
+        <img src="https://img.shields.io/github/stars/imaakanksha/ProductivityAnalyzer?style=flat-square&color=7c3aed&labelColor=1a1a24" alt="Stars"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 5 -->
+    <td width="50%" valign="top">
+      <h3>🔬 <a href="https://github.com/imaakanksha/Urban-Intelligence-Dashboard-Final">Near Miss Incident Analysis</a></h3>
+      <p>Predictive knowledge graph web app leveraging NLP for near-miss incident analysis & prevention.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/NLP-09A3D5?style=flat-square" alt="NLP"/>
+        <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square" alt="ML"/>
+        <img src="https://img.shields.io/github/stars/imaakanksha/Urban-Intelligence-Dashboard-Final?style=flat-square&color=7c3aed&labelColor=1a1a24" alt="Stars"/>
+      </p>
+    </td>
+    <!-- Project 6 -->
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/imaakanksha/ATS-Master-Resume-Optimizer">ATS Resume Optimizer</a></h3>
+      <p>AI-driven resume optimization engine that maximizes ATS compatibility scores using NLP.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/NLP-ff6b6b?style=flat-square" alt="NLP"/>
+        <img src="https://img.shields.io/badge/AI-412991?style=flat-square" alt="AI"/>
+        <img src="https://img.shields.io/github/stars/imaakanksha/ATS-Master-Resume-Optimizer?style=flat-square&color=7c3aed&labelColor=1a1a24" alt="Stars"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
-<br/>
-
-<!-- PINNED REPO CARDS -->
-<a href="https://github.com/imaakanksha/AgenticAI-Workshop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imaakanksha&repo=AgenticAI-Workshop&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="AgenticAI Workshop"/>
-</a>
-<a href="https://github.com/imaakanksha/ProductivityAnalyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imaakanksha&repo=ProductivityAnalyzer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="ProductivityAnalyzer"/>
-</a>
-
-<a href="https://github.com/imaakanksha/Multi-Agent-For-MGT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imaakanksha&repo=Multi-Agent-For-MGT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="Multi-Agent Research"/>
-</a>
-<a href="https://github.com/imaakanksha/o9OptimizerAgent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imaakanksha&repo=o9OptimizerAgent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="o9 Optimizer"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/imaakanksha?tab=repositories"><img src="https://img.shields.io/badge/🔭_Explore_All_Repositories_→-7c3aed?style=for-the-badge&logoColor=white" alt="All Repos"/></a>
-
+<div align="center">
+  <br/>
+  <a href="https://github.com/imaakanksha?tab=repositories">
+    <img src="https://img.shields.io/badge/🔭_Explore_All_Repositories_→-7c3aed?style=for-the-badge&logoColor=white" alt="All Repos"/>
+  </a>
 </div>
 
 <!-- ──────────────────────────── ACHIEVEMENTS ─────────────────────────────────── -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<hr/>
 
-## 🏅 &nbsp;Achievements & Certifications
+## 🏅 Achievements & Certifications
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="50%" valign="top">
+<td width="50%" valign="top">
 
-### 🎖️ Achievements
-
-<table>
-<tr><td>🥇</td><td><b>1st Place</b> — National Science Day 2022, BCST Bihar</td></tr>
-<tr><td>🥇</td><td><b>1st Place</b> — AI & ML Online Training, EdgeFX Technologies</td></tr>
-<tr><td>🥇</td><td><b>1st Place</b> — Boot Camp & Hackathon, Emerging Tech (TEQIP-III)</td></tr>
-<tr><td>⭐</td><td><b>NPTEL Star</b>, <b>Domain Scholar</b> & <b>Discipline Star</b> (2021 & 2022)</td></tr>
-</table>
+### 🏆 Achievements
+*   🥇 **1st Place** — National Science Day 2022, BCST Bihar
+*   🥇 **1st Place** — AI & ML Online Training, EdgeFX Technologies
+*   🥇 **1st Place** — Boot Camp & Hackathon, Emerging Tech (TEQIP-III)
+*   ⭐ **NPTEL Star**, **Domain Scholar** & **Discipline Star** (2021 & 2022)
 
 </td>
-<td align="center" width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 📜 Certifications & Education
-
-<table>
-<tr><td>🎓</td><td><b>AI Programming with Python</b> — Udemy Nano Degree Program</td></tr>
-<tr><td>🎓</td><td><b>Full Stack Web Development</b> — E & ICT Academy, IIT Kanpur</td></tr>
-<tr><td>🏛️</td><td><b>B.Tech</b> — Aryabhatta Knowledge University, 2022</td></tr>
-<tr><td>🏛️</td><td><b>Diploma in Computer Application</b> — ARCADE Academy, 2018</td></tr>
-</table>
+*   🎓 **AI Programming with Python** — Udacity Nano Degree Program
+*   🎓 **Full Stack Web Development** — E & ICT Academy, IIT Kanpur
+*   🏛️ **B.Tech in Computer Science** — Aryabhatta Knowledge University, 2022
+*   🏛️ **Diploma in Computer Application** — ARCADE Academy, 2018
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <!-- ──────────────────────────── DEVELOPMENT BREAKDOWN ────────────────────────── -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<hr/>
 
-## 🌐 &nbsp;Development Breakdown
+## 🌐 Development Breakdown
 
 <div align="center">
 
@@ -482,17 +302,13 @@ class Akanksha:
 
 <!-- ──────────────────────────── ENGINEERING PHILOSOPHY ───────────────────────── -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<hr/>
 
-## 🧠 &nbsp;Engineering Philosophy
+## 🧠 Engineering Philosophy
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-```
+```text
     ╔══════════════════════════════════════════════════════════════╗
     ║                                                              ║
     ║   🏗️  ARCHITECT      Design for scale, not for now           ║
@@ -505,124 +321,56 @@ class Akanksha:
     ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ──────────────────────────── EXPERTISE ────────────────────────────────────── -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-## 🎓 &nbsp;Areas of Expertise
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-🤖<br/>
-**Gen AI & LLMs**<br/>
-<sub>AI Agents (ADK)<br/>RAG Pipelines<br/>Prompt Engineering<br/>Vector Databases</sub>
-
-</td>
-<td align="center" width="20%">
-
-⚡<br/>
-**Backend Dev**<br/>
-<sub>Flask & Django<br/>REST APIs & FastAPI<br/>PostgreSQL & MySQL<br/>Microservices</sub>
-
-</td>
-<td align="center" width="20%">
-
-📊<br/>
-**Data & ML**<br/>
-<sub>Scikit-Learn & PyTorch<br/>NLP with SpaCy<br/>Power BI & Matplotlib<br/>Pandas & NumPy</sub>
-
-</td>
-<td align="center" width="20%">
-
-☁️<br/>
-**Cloud & DevOps**<br/>
-<sub>AWS & Azure<br/>Docker & CI/CD<br/>QA Automation<br/>Selenium & PyTest</sub>
-
-</td>
-<td align="center" width="20%">
-
-💡<br/>
-**Soft Skills**<br/>
-<sub>Communication<br/>Problem Solving<br/>Team Collaboration<br/>Analytical Thinking</sub>
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <!-- ──────────────────────────── GITHUB ANALYTICS ─────────────────────────────── -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<hr/>
 
-## 📈 &nbsp;GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
-
-<a href="https://github.com/imaakanksha">
-<img src="https://github-readme-stats.vercel.app/api?username=imaakanksha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&rank_icon=github&show=reviews,discussions_started,prs_merged" alt="GitHub Stats" height="195"/>
-</a>
-<a href="https://github.com/imaakanksha">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imaakanksha&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=a78bfa&sideNums=a78bfa&dates=6e7681" alt="GitHub Streak" height="195"/>
-</a>
-
+  <a href="https://github.com/imaakanksha">
+    <img src="https://github-readme-stats.vercel.app/api?username=imaakanksha&show_icons=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&border_color=30363d&show=reviews,discussions_started,prs_merged" alt="GitHub Stats" height="195"/>
+  </a>
+  <a href="https://github.com/imaakanksha">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaakanksha&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=a78bfa&sideNums=a78bfa&dates=6e7681&border=30363d" alt="GitHub Streak" height="195"/>
+  </a>
 </div>
 
-<!-- ──────────────────────────── TROPHIES ─────────────────────────────────────── -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-## 🏆 &nbsp;Trophies
+<br/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=imaakanksha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=imaakanksha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
-<!-- ──────────────────────────── CONTRIBUTION GRAPH ───────────────────────────── -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-## 📊 &nbsp;Contribution Activity
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imaakanksha&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" width="100%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imaakanksha&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" width="100%"/>
 </div>
 
 <!-- ──────────────────────────── CONNECT ──────────────────────────────────────── -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<hr/>
 
 <div align="center">
 
-## 🤝 &nbsp;Let's Build Something Amazing Together
+## 🤝 Let's Build Something Amazing Together
 
 <p>
-<a href="https://www.linkedin.com/in/iamakanksha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://github.com/imaakanksha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<a href="mailto:summiakanksha123@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/iamakanksha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/imaakanksha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="mailto:summiakanksha123@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote"/>
 
-<br/>
+<br/><br/>
 
-```
+```text
 💡 Open to collaborations on Gen AI, Machine Learning, NLP, and Backend Projects
 ```
 
