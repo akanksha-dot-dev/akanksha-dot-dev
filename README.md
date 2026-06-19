@@ -24,8 +24,8 @@
 <p>
   <img src="https://img.shields.io/badge/Experience-3.9_Years-7c3aed?style=flat-square&logo=python&logoColor=white" alt="Experience"/>
   <img src="https://img.shields.io/badge/AI/ML_Features-10+-6366f1?style=flat-square&logo=pytorch&logoColor=white" alt="AI/ML Features"/>
-  <img src="https://img.shields.io/badge/Incidents_Resolved-500+-ff6b6b?style=flat-square&logo=opsgenie&logoColor=white" alt="Incidents"/>
-  <img src="https://img.shields.io/badge/Service_Reliability-98%25-2ea44f?style=flat-square&logo=uptime-kuma&logoColor=white" alt="Uptime"/>
+  <img src="https://img.shields.io/badge/Incidents_Resolved-500+-8b5cf6?style=flat-square&logo=opsgenie&logoColor=white" alt="Incidents"/>
+  <img src="https://img.shields.io/badge/Service_Reliability-98%25-4f46e5?style=flat-square&logo=uptime-kuma&logoColor=white" alt="Uptime"/>
   <img src="https://img.shields.io/badge/Downtime_Reduced-30%25-a78bfa?style=flat-square&logo=statuspage&logoColor=white" alt="Downtime"/>
 </p>
 
@@ -88,18 +88,18 @@ facts:
 
 <table width="100%">
   <tr>
-    <td align="center" valign="top" width="15%">
-      <img src="https://img.shields.io/badge/Samsung_SDS-Present-7c3aed?style=flat-square" alt="Samsung SDS"/>
-      <br/>
-      <p align="center">┃<br/>┃<br/>┃<br/>┃<br/>┃<br/>┃<br/>┃<br/>┃</p>
+    <td width="22%" valign="top" align="center">
+      <strong>2024 – Present</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Samsung_SDS-7c3aed?style=flat-square&logo=samsung&logoColor=white" alt="Samsung SDS"/>
     </td>
-    <td valign="top" width="85%">
+    <td valign="top">
       <strong>Senior Executive Engineer</strong>
       <br/>
-      <em>Oct 2024 – Present | Gurugram, India</em>
+      <em>Gurugram, India</em>
       <ul>
         <li>🤖 Developed specialized AI agents using the <strong>ADK framework</strong> for content generation & evaluation.</li>
-        <li>📊 Built an end-to-end <strong>RAG system</strong> for annual reports with advanced PDF extraction.</li>
+        <li>📊 Built an end-to-end <strong>RAG system</strong> for annual reports with advanced PDF extraction (GMFT).</li>
         <li>🧪 Implemented a self-healing <strong>QA Automation Engine</strong> with accuracy reporting.</li>
         <li>🔌 Created Python plugin integrations on the <strong>o9 Solutions Platform</strong>.</li>
         <li>🚀 Deployed token-optimized LLM role assignment using a divide-and-conquer strategy.</li>
@@ -107,13 +107,15 @@ facts:
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="15%">
-      <img src="https://img.shields.io/badge/HCLTech-2022--2024-6366f1?style=flat-square" alt="HCLTech"/>
+    <td width="22%" valign="top" align="center">
+      <strong>2022 – 2024</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HCLTech-6366f1?style=flat-square&logo=hcl&logoColor=white" alt="HCLTech"/>
     </td>
-    <td valign="top" width="85%">
+    <td valign="top">
       <strong>Software Engineer</strong>
       <br/>
-      <em>Sep 2022 – Sep 2024 | Noida, India</em>
+      <em>Noida, India</em>
       <ul>
         <li>🌐 Engineered and sustained web applications for recruitment and job rotations.</li>
         <li>📈 Built automated scheduler status dashboards using <strong>Power BI</strong>.</li>
@@ -141,26 +143,32 @@ facts:
 *   **Data & Retrieval**: RAG Pipelines, Vector DBs (Chroma, pgvector)
 *   **Data Analysis**: Pandas, NumPy, Matplotlib, Power BI
 
+<br/>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,numpy,matplotlib,jupyter&theme=dark" alt="Gen AI & Data Icons" />
+  </a>
+</div>
+
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ Backend & Architecture
 *   **Web Frameworks**: FastAPI, Django, Flask, REST APIs
-*   **Databases**: PostgreSQL, MySQL, EKG (Enterprise Knowledge Graphs)
+*   **Databases & KGs**: PostgreSQL, MySQL, Enterprise Knowledge Graphs (EKG)
 *   **DevOps & Cloud**: AWS, Azure, Docker, Bash, PowerShell
-*   **Testing & Tools**: QA Automation, Selenium, PyTest, Postman
+*   **Testing & Tools**: QA Automation, Selenium, PyTest, Postman, Git/GitHub
+
+<br/>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,flask,django,fastapi,aws,azure,docker,bash,powershell,git,github,selenium,pytest,postman,vscode,pycharm&perline=8&theme=dark" alt="Backend & Tools Icons" />
+  </a>
+</div>
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,flask,django,fastapi,pytorch,sklearn,pandas,numpy,matplotlib,jupyter,aws,azure,docker,bash,powershell,git,github,selenium,pytest,postman,vscode,pycharm&perline=8&theme=dark" alt="Tech Stack Icons Grid" />
-  </a>
-</div>
 
 <!-- ────────────────────────────── FEATURED PROJECTS ──────────────────────────── -->
 
@@ -306,22 +314,36 @@ facts:
 
 ## 🧠 Engineering Philosophy
 
-<div align="center">
-
-```text
-    ╔══════════════════════════════════════════════════════════════╗
-    ║                                                              ║
-    ║   🏗️  ARCHITECT      Design for scale, not for now           ║
-    ║   🤖  AUTOMATE        If it runs twice, script it            ║
-    ║   🔍  VALIDATE        Test early, test often, ship safe      ║
-    ║   🚀  ITERATE         Ship fast, learn faster                ║
-    ║   📚  GROW            Every bug is a lesson in disguise      ║
-    ║   🤝  SHARE           Knowledge multiplies when shared       ║
-    ║                                                              ║
-    ╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🏗️ Architect</h3>
+      <p><em>Design for scale, not just for now</em></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🤖 Automate</h3>
+      <p><em>If it runs twice, script it</em></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🔍 Validate</h3>
+      <p><em>Test early, test often, ship safe</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🚀 Iterate</h3>
+      <p><em>Ship fast, learn faster</em></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>📚 Grow</h3>
+      <p><em>Every bug is a lesson in disguise</em></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🤝 Share</h3>
+      <p><em>Knowledge multiplies when shared</em></p>
+    </td>
+  </tr>
+</table>
 
 <!-- ──────────────────────────── GITHUB ANALYTICS ─────────────────────────────── -->
 
@@ -331,10 +353,10 @@ facts:
 
 <div align="center">
   <a href="https://github.com/imaakanksha">
-    <img src="https://github-readme-stats.vercel.app/api?username=imaakanksha&show_icons=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&border_color=30363d&show=reviews,discussions_started,prs_merged" alt="GitHub Stats" height="195"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=imaakanksha&show_icons=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&hide_border=true&show=reviews,discussions_started,prs_merged" alt="GitHub Stats" height="195"/>
   </a>
   <a href="https://github.com/imaakanksha">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaakanksha&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=a78bfa&sideNums=a78bfa&dates=6e7681&border=30363d" alt="GitHub Streak" height="195"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaakanksha&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=a78bfa&sideNums=a78bfa&dates=6e7681" alt="GitHub Streak" height="195"/>
   </a>
 </div>
 
@@ -370,9 +392,7 @@ facts:
 
 <br/><br/>
 
-```text
-💡 Open to collaborations on Gen AI, Machine Learning, NLP, and Backend Projects
-```
+> 💡 **Open to collaborations on Gen AI, Machine Learning, NLP, and Backend Projects**
 
 ⭐ **If you find my work interesting, consider dropping a star — it fuels the next late-night debugging session!**
 
