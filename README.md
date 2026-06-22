@@ -241,13 +241,13 @@ philosophy: "Ship fast. Ship reliable. Ship AI."
   <tr>
     <!-- Project 5 -->
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/akanksha-dot-dev/multilingual-mandi">Multilingual Mandi</a></h3>
+      <h3>🌐 <a href="https://github.com/akanksha-dot-dev/multilingual_mandi">Multilingual Mandi</a></h3>
       <p>AI-powered voice-first web app for India's local markets — multilingual translation, price discovery & negotiation.</p>
       <p>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/GenAI-00E5B0?style=flat-square" alt="GenAI"/>
-        <img src="https://img.shields.io/github/stars/akanksha-dot-dev/multilingual-mandi?style=flat-square&color=00E5B0&labelColor=05070F" alt="Stars"/>
+        <img src="https://img.shields.io/github/stars/akanksha-dot-dev/multilingual_mandi?style=flat-square&color=00E5B0&labelColor=05070F" alt="Stars"/>
       </p>
     </td>
     <!-- Project 6 -->
